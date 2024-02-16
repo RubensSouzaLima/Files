@@ -1,0 +1,14 @@
+C:\C# - Files\Archive\Archive\bin\Debug\net7.0\Archive.exe
+C:\C# - Files\Archive\Archive\bin\Debug\net7.0\Archive.deps.json
+C:\C# - Files\Archive\Archive\bin\Debug\net7.0\Archive.runtimeconfig.json
+C:\C# - Files\Archive\Archive\bin\Debug\net7.0\Archive.dll
+C:\C# - Files\Archive\Archive\bin\Debug\net7.0\Archive.pdb
+C:\C# - Files\Archive\Archive\obj\Debug\net7.0\Archive.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# - Files\Archive\Archive\obj\Debug\net7.0\Archive.AssemblyInfoInputs.cache
+C:\C# - Files\Archive\Archive\obj\Debug\net7.0\Archive.AssemblyInfo.cs
+C:\C# - Files\Archive\Archive\obj\Debug\net7.0\Archive.csproj.CoreCompileInputs.cache
+C:\C# - Files\Archive\Archive\obj\Debug\net7.0\Archive.dll
+C:\C# - Files\Archive\Archive\obj\Debug\net7.0\refint\Archive.dll
+C:\C# - Files\Archive\Archive\obj\Debug\net7.0\Archive.pdb
+C:\C# - Files\Archive\Archive\obj\Debug\net7.0\Archive.genruntimeconfig.cache
+C:\C# - Files\Archive\Archive\obj\Debug\net7.0\ref\Archive.dll

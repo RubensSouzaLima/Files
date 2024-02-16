@@ -1,0 +1,14 @@
+C:\C# - Files\ArchiveClass4\ArchiveClass4\bin\Debug\net7.0\ArchiveClass4.exe
+C:\C# - Files\ArchiveClass4\ArchiveClass4\bin\Debug\net7.0\ArchiveClass4.deps.json
+C:\C# - Files\ArchiveClass4\ArchiveClass4\bin\Debug\net7.0\ArchiveClass4.runtimeconfig.json
+C:\C# - Files\ArchiveClass4\ArchiveClass4\bin\Debug\net7.0\ArchiveClass4.dll
+C:\C# - Files\ArchiveClass4\ArchiveClass4\bin\Debug\net7.0\ArchiveClass4.pdb
+C:\C# - Files\ArchiveClass4\ArchiveClass4\obj\Debug\net7.0\ArchiveClass4.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# - Files\ArchiveClass4\ArchiveClass4\obj\Debug\net7.0\ArchiveClass4.AssemblyInfoInputs.cache
+C:\C# - Files\ArchiveClass4\ArchiveClass4\obj\Debug\net7.0\ArchiveClass4.AssemblyInfo.cs
+C:\C# - Files\ArchiveClass4\ArchiveClass4\obj\Debug\net7.0\ArchiveClass4.csproj.CoreCompileInputs.cache
+C:\C# - Files\ArchiveClass4\ArchiveClass4\obj\Debug\net7.0\ArchiveClass4.dll
+C:\C# - Files\ArchiveClass4\ArchiveClass4\obj\Debug\net7.0\refint\ArchiveClass4.dll
+C:\C# - Files\ArchiveClass4\ArchiveClass4\obj\Debug\net7.0\ArchiveClass4.pdb
+C:\C# - Files\ArchiveClass4\ArchiveClass4\obj\Debug\net7.0\ArchiveClass4.genruntimeconfig.cache
+C:\C# - Files\ArchiveClass4\ArchiveClass4\obj\Debug\net7.0\ref\ArchiveClass4.dll
